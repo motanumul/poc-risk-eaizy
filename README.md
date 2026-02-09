@@ -15,7 +15,7 @@ A simple local Q&A assistant that answers questions **from PDF documents** using
 
 ## Repository Structure
 pdf-rag-bot/
-- **data/ # put your PDFs here (not committed by default)
+- **data/ ** # put your PDFs here (not committed by default)
 **case-study/ #
 - **chroma_db/ # local vector database (not committed)
 - **ingest.py # build/update vector DB from PDFs
