@@ -1,0 +1,21 @@
+Python Environment Setup (Ubuntu)
+
+Install Python tooling:
+
+sudo apt update
+sudo apt install -y python3 python3-venv python3-pip
+
+
+Create virtual environment:
+
+python3 -m venv .venv
+source .venv/bin/activate
+
+
+Install dependencies:
+
+python3 -m pip install -U pip wheel setuptools
+python3 -m pip install -U \
+  langchain-core langchain-community langchain-ollama \
+  langchain-chroma langchain-text-splitters \
+  chromadb pypdf
