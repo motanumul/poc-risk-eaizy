@@ -1,4 +1,5 @@
 # poc-risk-eaizy
+# eAIzy Team
 
 # PDF RAG Bot (Ollama + LangChain + Chroma)
 
