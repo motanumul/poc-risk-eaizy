@@ -30,7 +30,7 @@ pdf-rag-bot/
 - Ollama installed and running
 
 ## 1) Install Ollama + Models
-===
+
 ### Install Ollama
 Follow the official installer:
 - https://ollama.com/download
@@ -46,22 +46,17 @@ ollama run llama3.2:3b
 Exit with /bye.
 
 
-2) Python Environment Setup (Ubuntu)
-===
-Install Python tooling:
-
+## 2) Python Environment Setup (Ubuntu)
+### Install Python tooling:
 sudo apt update
 sudo apt install -y python3 python3-venv python3-pip
 
 
-Create virtual environment:
-
+### Create virtual environment:
 python3 -m venv .venv
 source .venv/bin/activate
 
-
-Install dependencies:
-
+### Install dependencies:
 python3 -m pip install -U pip wheel setuptools
 python3 -m pip install -U \
   langchain-core langchain-community langchain-ollama \
@@ -69,8 +64,7 @@ python3 -m pip install -U \
   chromadb pypdf
 
 
-3) Add Your PDFs
-===
+## 3) Add Your PDFs
 Create data/ and place PDFs inside:
 
 mkdir -p data
