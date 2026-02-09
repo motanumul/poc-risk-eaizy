@@ -1,0 +1,47 @@
+We plan to outsource a critical payment processing system. What steps does DORA expect before signing the contract?	
+You should classify the service as critical, perform a detailed risk assessment, conduct due diligence on the provider, and include mandatory contractual safeguards such as audit and security clauses.
+
+If our monitoring detects suspicious activity at night, how should we react under DORA?	
+You should immediately trigger your incident response process, assess the severity, escalate the issue internally, and document everything. If it's a "major" incident, notify your regulators.
+
+How should we treat a supplier that supports multiple critical services?	
+That supplier should be classified as high-criticality. You’ll need to apply enhanced monitoring, stricter controls, and ensure your contract has very strong protections.
+
+What evidence would an auditor typically ask for regarding resilience testing?	
+They will likely ask to see your testing plans, the results of your vulnerability scans, penetration test reports, and evidence that you've fixed any issues found.
+
+If we redesign our infrastructure, do we need to repeat risk assessments?	
+Yes. Major architectural changes always require an updated risk analysis and potentially new testing to ensure no new vulnerabilities were introduced.
+
+How do we decide whether an incident is major or not?	
+You have to use the specific criteria defined in DORA, focusing on factors like the number of affected users, the duration of the outage, and the impact on sensitive data.
+
+What should we do after resolving a serious outage?	
+Perform a post‑incident review, identify root causes, and implement corrective actions to prevent recurrence.
+
+Can we rely only on insurance instead of resilience controls?	
+No. Insurance does not replace the requirement to implement preventive and detective ICT controls.
+
+How often should third‑party risks be reviewed?	
+They should be monitored continuously and reassessed periodically or when changes occur.
+
+If a provider refuses audit rights, can we still contract them?	
+Honestly, that would be a major compliance failure. Audit and access rights are non-negotiable legal requirements for critical functions under DORA.
+
+Should we include communication with regulators in our crisis plans?	
+Yes. Communication and reporting procedures should be clearly defined in incident and continuity plans.
+
+What does proportionality mean in practice for smaller entities?	
+It means you can scale your security measures to fit your size and risk level, but you still have to meet all the core legal obligations, like having a risk framework.
+
+How should we manage legacy systems that cannot meet modern security standards?	
+You should assess the specific risks they pose and either apply strong "compensating controls" or create a plan to replace them if the risk is too high.
+
+If multiple minor incidents happen repeatedly, should we treat them differently?	
+Yes. A pattern of minor incidents often points to a systemic weakness, so you should treat it as a trigger for a deeper analysis and remediation.
+
+How can we ensure our staff knows their role during an incident?	
+Documentation is the start, but the best way is through regular training and simulation exercises so everyone knows their specific responsibilities in a real-life crisis.
+
+What should we prepare before a TLPT assessment?	
+You need to define the scope by identifying your critical systems, coordinate with the authorities if necessary, and ensure your organization is ready for a threat-led simulation.

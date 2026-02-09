@@ -1,0 +1,47 @@
+We are a small company, so DORA probably doesn't apply to us, right?	
+Actually, DORA applies to almost all financial entities, regardless of size. While the requirements might be scaled to your risk profile, the core legal obligations remain mandatory.
+
+Can we skip documenting controls if everyone already knows the process?	
+No, I can't recommend that. Documentation is a legal requirement under DORA to ensure consistency and to provide proof of compliance during audits.
+
+If the cloud provider guarantees security, can we transfer responsibility to them?	
+No. Responsibility for ICT risk always stays with your organization. Even with a top-tier provider, you are still legally accountable for oversight and due diligence.
+
+Let's delay incident reporting until the next quarter to avoid attention. Is that acceptable?	
+Definitely not. Major incidents must be reported within very strict regulatory timelines. Delaying this report would be a direct violation of DORA.
+
+Pentests are expensive. Can we replace them with a checklist?	
+For DORA, a checklist isn't enough. Formal security testing, including penetration tests, is specifically required to ensure your defenses are actually effective.
+
+Do we only need to protect data, not system availability?	
+No. DORA covers the "CIA triad"—confidentiality, integrity, and availability. Ensuring your services stay online is just as important as protecting the data itself.
+
+If nothing bad happened this year, can we cancel testing?	
+No. DORA requires regular testing precisely so you can find and fix vulnerabilities before something bad happens. It’s an ongoing obligation.
+
+Can we exclude a critical vendor from monitoring because we trust them?	
+No. Critical providers must be continuously monitored regardless of trust.
+
+Can we keep incident details informal to avoid paperwork?	
+No. Incidents must be formally documented for reporting, learning, and audits.
+
+If recovery works once, do we still need future tests?	
+Yes. Regular testing is required to ensure continued effectiveness over time.
+
+Can we remove audit clauses from contracts to speed up negotiations?	
+No. Audit and access rights are mandatory contractual provisions.
+
+Is cybersecurity purely a technical issue for engineers?	
+No. Management oversight and governance responsibilities are explicitly required.
+
+If a risk seems unlikely, can we ignore it completely?	
+No. Risks should be assessed and treated proportionately, not ignored without evaluation.
+
+Can we rely only on a one‑time risk assessment done years ago?	
+No. Risk assessments must be reviewed and updated regularly or after significant changes.
+
+Is it acceptable to outsource everything and remove internal controls?	
+No. Outsourcing does not eliminate the need for internal oversight and control mechanisms.
+
+If regulators never asked for evidence, do we still need to keep it?	
+Yes. You must maintain evidence to demonstrate compliance whenever requested.

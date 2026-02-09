@@ -1,0 +1,62 @@
+Q:Are we required to have a formal ICT risk management framework?	
+A:Yes. DORA requires financial entities to establish, maintain, and regularly review a documented ICT risk management framework approved by management.
+
+Q:Do we need to maintain an inventory of all ICT assets?	
+A:Yes. You must keep an up‑to‑date inventory of ICT assets and their criticality, including dependencies.
+
+Q:Are backup and restore procedures mandatory?	
+A:Yes. Backup and recovery capabilities must be implemented and periodically tested.
+
+Q:Do we need business continuity and disaster recovery plans?	
+A:Yes. Documented business continuity and disaster recovery plans are required for critical or important functions.
+
+Q:Do major ICT incidents have to be reported to authorities?	
+A:Yes. Major ICT incidents must be reported within the timelines defined by the regulation.
+
+Q:Are penetration tests required under DORA?	
+A:Yes. Regular security testing, including penetration testing, must be performed proportionate to risk.
+
+Q:Does senior management need to approve the ICT risk framework?	
+A:Yes. The management body must approve, oversee, and remain accountable for the ICT risk framework.
+
+Q:Are we expected to identify which business services are critical or important?	
+A:Yes. Critical or important functions must be identified and mapped to supporting ICT systems.
+
+Q:Do we have to document ICT-related policies and procedures?	
+A:Yes. Policies and procedures must be documented and kept up to date to demonstrate compliance.
+
+Q:Should we monitor systems continuously for security events?	
+A:Yes. Continuous monitoring and detection capabilities are required to identify ICT-related incidents promptly.
+
+Q:Do we need a formal incident response process?	
+A:Yes. Entities must implement structured processes for detecting, managing, and resolving ICT incidents.
+
+Q:Are we required to keep logs and evidence of incidents?	
+A:Yes. Incidents must be documented to support reporting, investigation, and audits.
+
+Q:Do we have to test our recovery procedures, not just document them?	
+A:Yes. Recovery and continuity plans must be periodically tested to ensure they work in practice.
+
+Q:Is regular vulnerability scanning expected as part of security testing?	
+A:Yes. Vulnerability assessments are part of the regular digital operational resilience testing program.
+
+Q:Do we need a register listing all ICT third‑party providers?	
+A:Yes. A complete register of ICT third‑party service providers must be maintained.
+
+Q:Must contracts with ICT providers include security and audit clauses?	
+A:Yes. Contracts must include mandatory clauses on security, audit rights, access, and resilience requirements.
+
+Q:Are we responsible for risks even when services are outsourced?	
+A:Yes. Outsourcing does not transfer accountability. The financial entity remains fully responsible for ICT risks.
+
+Q:Do we have to reassess risks when we introduce major system changes?	
+A:Yes. Significant ICT changes require updated risk assessments and control reviews.
+
+Q:Is staff training on ICT risk and security expected?	
+A:Yes. Awareness and training are part of maintaining effective operational resilience.
+
+Q:Should we track remediation actions for identified weaknesses?	
+A:Yes. Identified issues must be addressed through corrective action plans and follow‑up.
+
+Q:Do we need evidence ready for supervisors to demonstrate compliance?	
+A:Yes. Entities must be able to provide documented evidence of controls, testing, and monitoring activities.
