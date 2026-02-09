@@ -1,5 +1,8 @@
-# poc-risk-eaizy
 # eAIzy Team
+## poc-risk-eaizy
+Target outcome for the PoC
+
+User asks a question → system retrieves the most relevant documents passages → LLM answers using only those passages → response includes citations + “I don’t know” when not supported.
 
 # PDF RAG Bot (Ollama + LangChain + Chroma)
 
