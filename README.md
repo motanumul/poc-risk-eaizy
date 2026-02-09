@@ -59,10 +59,7 @@ source .venv/bin/activate
 
 ### Install dependencies:
 python3 -m pip install -U pip wheel setuptools
-python3 -m pip install -U \
-  langchain-core langchain-community langchain-ollama \
-  langchain-chroma langchain-text-splitters \
-  chromadb pypdf
+python3 -m pip install -U langchain-core langchain-community langchain-ollama langchain-chroma langchain-text-splitters chromadb pypdf
 
 
 ## 3) Add Your PDFs
